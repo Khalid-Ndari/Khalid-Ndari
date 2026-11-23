@@ -10,6 +10,7 @@ My path into analytics started in healthcare: as a Medical Laboratory Technologi
 ![Power Query](https://img.shields.io/badge/Power%20Query-M-2C7BB6)
 ![Fabric](https://img.shields.io/badge/Microsoft-Fabric-0078D4)
 ![Excel](https://img.shields.io/badge/Excel-Advanced-217346)
+![Python](https://img.shields.io/badge/Python-Basic-3776AB)
 
 ## 📊 Featured Projects
 *Projects coming soon: healthcare laboratory analytics and Alberta methane performance.*

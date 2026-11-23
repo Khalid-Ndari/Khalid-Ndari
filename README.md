@@ -13,7 +13,10 @@ My path into analytics started in healthcare: as a Medical Laboratory Technologi
 ![Python](https://img.shields.io/badge/Python-Basic-3776AB)
 
 ## 📊 Featured Projects
-*Projects coming soon: healthcare laboratory analytics and Alberta methane performance.*
+| Project | Business question | Tools |
+|---|---|---|
+| **[Hospital Laboratory Performance Analytics](https://github.com/Khalid-Ndari/hospital-lab-performance-powerbi)** | Where are lab delays, repeat work and reagent costs concentrated? | Power BI, DAX, Power Query, SQL |
+| *Alberta Methane Performance & Review Prioritization* | *Coming soon* | Fabric, Power BI |
 
 ## 🎯 Currently
 - 🎓 Finishing SAIT's BI program

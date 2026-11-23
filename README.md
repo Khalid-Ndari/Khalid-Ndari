@@ -23,4 +23,4 @@ My path into analytics started in healthcare: as a Medical Laboratory Technologi
 English · Français
 
 ## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/ndari-khalid-33670121b)
+[LinkedIn](https://www.linkedin.com/in/khalid-ndari-33670121b)

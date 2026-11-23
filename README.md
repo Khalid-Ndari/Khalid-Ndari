@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Khalid Ndari 👋
 
-<!--
-**willkhalid95/willkhalid95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BI & Data Analyst** based in Calgary, AB, turning raw data into decisions with SQL, Power BI and Microsoft Fabric.
 
-Here are some ideas to get you started:
+My path into analytics started in healthcare: as a Medical Laboratory Technologist and then a Medical Analyst, I designed lab-performance dashboards with SQL, Power BI and Excel. I then supported pharmacy clients at TELUS Santé, troubleshooting pharmacy management software in French and English. I'm now completing SAIT's **Business Intelligence Data Analysis and Reporting** program.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools
+![SQL](https://img.shields.io/badge/SQL-T--SQL-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-DAX-yellow)
+![Power Query](https://img.shields.io/badge/Power%20Query-M-2C7BB6)
+![Fabric](https://img.shields.io/badge/Microsoft-Fabric-0078D4)
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346)
+
+## 📊 Featured Projects
+*Projects coming soon: healthcare laboratory analytics and Alberta methane performance.*
+
+## 🎯 Currently
+- 🎓 Finishing SAIT's BI program
+- 📜 Preparing for **Microsoft PL-300** (Power BI Data Analyst), then DP-600
+- 🏥 Especially interested in **healthcare analytics**
+
+## 🌐 Languages
+English · Français
+
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/ndari-khalid-33670121b)
